@@ -1,0 +1,72 @@
+body {
+    font-family: sans-serif;
+}
+header {
+    background-color: lightgreen;
+    font-size: 20px;
+
+}
+header img {
+    Padding: 7px;
+    
+}
+header a {
+    text-decoration: none;
+    color: blue;
+}
+nav a {
+    text-decoration: none;
+    color: darkgreen;
+    margin: 12px;
+    border-radius: 15px;
+    border: 3px solid darkgreen;
+    padding: 4px;
+}
+main i {
+    font-size: 45px;
+    color: orangered;
+    
+    
+}
+footer i {
+    font-size: 20px;
+}
+footer {
+    background-color: Lightgreen;
+}
+
+nav {
+    margin: 12px;
+}
+p img {
+    width: 150px;
+    height: 150p; 
+
+}
+.pet {
+    background-color: olivedrab;
+    font-size: 25px;
+    color: whitesmoke;
+    padding: 10px;
+}
+h2 {
+    color: lightgreen;
+    font-size: 35px;
+}
+.spesh {
+    font-size: 40px;
+    color: olivedrab
+}
+.con {
+    text-decoration: none;
+    border: 5px solid lightgreen;
+    border-radius: 20px;
+    padding: 8px;
+    color: royalblue
+}
+.up {
+    text-decoration: none;
+    border: 5px solid lightgreen;
+    border-radius: 21px;
+    padding: 8px;
+}
